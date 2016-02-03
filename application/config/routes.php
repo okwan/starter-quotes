@@ -40,7 +40,7 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
-
+$route['show/:num'] = 'First/gimme/3';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
